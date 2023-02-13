@@ -1,1 +1,1 @@
-# JavaHelloWorld Test for JENKIN
+# JavaHelloWorld Test for Jenkins
